@@ -1,0 +1,231 @@
+Simulation at 02/26/23
+Universe size 17 x 17
+
+Iteration: 1
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 2
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 3
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 4
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		1	Percent: 100
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 5
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		1	Percent: 100
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 6
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		1	Percent: 100
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 7
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		1	Percent: 100
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 8
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		1	Percent: 100
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 9
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 10
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 11
+Block: 		0	Percent: 0
+Beehive: 	0	Percent: 0
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 12
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 13
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 14
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 15
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 16
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 17
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 18
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
+Iteration: 19
+Block: 		0	Percent: 0
+Beehive: 	4	Percent: 100
+Loaf: 		0	Percent: 0
+Boat: 		0	Percent: 0
+Tub: 		0	Percent: 0
+Blinker: 	0	Percent: 0
+Toad: 		0	Percent: 0
+Beacon: 	0	Percent: 0
+Glider: 	0	Percent: 0
+Spaceship: 	0	Percent: 0
+
